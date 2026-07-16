@@ -26,15 +26,15 @@
 
 ---
 
-## 👋 whoami
+## 👋 who am i
 
-Undergrad at **Columbia** studying **Economics-Mathematics & AI**, working at the convergence of AI, neuroscience, and entrepreneurship. I like problems most people overlook — and taking action on them through research, building, and writing.
+Undergrad at **Columbia** studying **Math, CS, & Stats**, exploring neurotech, biotech, and ai/ml. I like asking questions, solving problems, and taking action through research, building, and writing.
 
-<sub>🗽 New York City · 🧠 Claude Builder Club President · 🏗️ building at the seam of deeptech + social impact</sub>
+<sub>🗽 New York City · 🧠 Claude Builder Club President · 🏗️ building a deeptech community & incubator</sub>
 
 ---
 
-## ⚡ What I'm up to
+## ⚡ what i'm up to
 
 <!-- EDIT: keep this in sync with whatever's current -->
 
@@ -42,7 +42,7 @@ Undergrad at **Columbia** studying **Economics-Mathematics & AI**, working at th
 
 💸 **Investment Fellow @ Entrepreneurs First** · **Venture Scout @ LvlUp Ventures** · **Women's Investor Track @ Dorm Room Fund**
 
-📊 **Data @ Morph Labs** · **Partnerships Product Engineer @ OBLSK** (AI negotiation agents for creator deals)
+📊 **Data Collection @ Morph Labs** · **Partnerships Product Engineer @ OBLSK** (AI negotiation agents for creator deals)
 
 🧬 **CSUREMM Researcher @ Columbia** — "rescuing the brain" from Alzheimer's τ (MAPT) via neural mass dynamics + the criticality hypothesis
 
@@ -50,7 +50,7 @@ Undergrad at **Columbia** studying **Economics-Mathematics & AI**, working at th
 
 ---
 
-## 🧠 Currently exploring
+## 🧠 currently exploring
 
 > neurodegeneration · connectomics · computational neuro/bio · synthetic bio · memory *(human & AI)* · longevity & cellular reprogramming · predictive processing · behavioral finance
 
@@ -60,13 +60,11 @@ Undergrad at **Columbia** studying **Economics-Mathematics & AI**, working at th
 
 <!-- EDIT: add repos as you ship them -->
 
-🕳️ **[rabbit-hole](https://github.com/Sophie-S-Z/rabbit-hole)** — browser games that start familiar and spiral into the absurd and existential *(Concept Alchemy · The Cascade · The Infinite Bureau)* · [live ↗](https://rabbit-hole-rosy-six.vercel.app/) · `Next.js`
-
 🔗 **[relay](https://github.com/Sophie-S-Z/relay)** — AI agents that negotiate M&A deals for small-business sales, cutting broker fees from 10% → 3% · `TypeScript`
 
-✴️ **[Noema](https://github.com/Sophie-S-Z/Noema)** — <!-- EDIT: one line on what Noema is --> · `JavaScript`
+✴️ **[Noema](https://github.com/Sophie-S-Z/Noema)** — creating original connections and generating new insights with AI · `JavaScript`
 
-📈 **[Quant Developer Resources](https://github.com/Sophie-S-Z/Quant-Developers-Resources)** — the map I wish I'd had
+🕳️ **[rabbit-hole](https://github.com/Sophie-S-Z/rabbit-hole)** — browser games that start familiar and spiral into the absurd and existential *(Concept Alchemy · The Cascade · The Infinite Bureau)* · [live ↗](https://rabbit-hole-rosy-six.vercel.app/) · `Next.js`
 
 ---
 
@@ -76,9 +74,9 @@ Undergrad at **Columbia** studying **Economics-Mathematics & AI**, working at th
 
 📗 **[Silk & Ink](https://www.amazon.com/dp/B0DK46RTVL)** — a self-published collection of original Chinese poetry with English translations, made for my grandmother
 
-📖 **Bao** — a novella blending magical realism with gritty street detail
+📖 **Bao** — a novella blending magical realism with the freedom of childhood and the joy of traveling
 
-🖋️ **[On Creating](https://0ncreating.substack.com/)** & **[I am, therefore I think](https://sophiesz.substack.com/)** — essays on building at the intersection of deeptech and impact
+🖋️ **[On Creating](https://0ncreating.substack.com/)** — essays on building, startups, and impact & **[I am, therefore I think](https://sophiesz.substack.com/)** — personal reflections/musings
 
 ---
 
@@ -121,7 +119,7 @@ Undergrad at **Columbia** studying **Economics-Mathematics & AI**, working at th
 
 <!-- Custom trotting dachshund, hand-built for you. Commit assets/dachshund.svg and it shows up.
      Want the classic "eats your grid" animation too? See SETUP.md for the snake workflow. -->
-<img src="https://raw.githubusercontent.com/Sophie-S-Z/Sophie-S-Z/main/assets/dachshund.svg" alt="A dachshund trotting across the contribution graph"/>
+<img src="https://raw.githubusercontent.com/Sophie-S-Z/Sophie-S-Z/main/dachshund.svg" alt="A dachshund trotting across the contribution graph"/>
 
 </div>
 
@@ -129,12 +127,12 @@ Undergrad at **Columbia** studying **Economics-Mathematics & AI**, working at th
 
 ## ✦ Beyond the code
 
-🤺 National-medalist **saber fencer** · 🏹 archery, ♟️ chess & 🀄 mahjong · 🍸 bartending & mixology · ✍️ poetry & fiction · 🧭 spontaneous exploration
+🤺 National medalist **saber fencer** · 🏹 archery, ♟️ chess & 🀄 mahjong · 🍸 bartending & mixology · ✍️ poetry & fiction · 🧭 spontaneous exploration
 
 <div align="center">
 
 <br/>
 
-<sub>💜 Always happy to meet people working on interesting problems — <a href="mailto:sophie.z@columbia.edu">let's connect</a></sub>
+<sub>💜 Always happy to meet people working on interesting problems in fascinating fields — <a href="mailto:sophie.z@columbia.edu">let's connect</a></sub>
 
 </div>
