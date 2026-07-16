@@ -1,7 +1,8 @@
 <!--
   Sophie-S-Z profile README
   Repo must be named exactly "Sophie-S-Z" for this to show on your profile.
-  Spots to tweak are flagged with <!-- EDIT --> comments.-->
+  Spots to tweak are flagged with EDIT comments.
+-->
 
 <div align="center">
 
