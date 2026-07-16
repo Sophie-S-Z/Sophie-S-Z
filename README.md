@@ -56,7 +56,7 @@ Undergrad at **Columbia** studying **Math, CS, & Stats**, exploring neurotech, b
 
 ---
 
-## 🛠️ Featured projects
+## 🛠️ featured projects
 
 <!-- EDIT: add repos as you ship them -->
 
@@ -68,7 +68,7 @@ Undergrad at **Columbia** studying **Math, CS, & Stats**, exploring neurotech, b
 
 ---
 
-## ✍️ Research & writing
+## ✍️ research & writing
 
 📄 **Governing Automated Strategic Intelligence** — accepted to **IAAI / AAAI 2026**; quantifying LLM utility for OSINT + policy recommendations for AI-enhanced intelligence · [read ↗](https://openreview.net/forum?id=vYCd25wN7b)
 
@@ -80,7 +80,7 @@ Undergrad at **Columbia** studying **Math, CS, & Stats**, exploring neurotech, b
 
 ---
 
-## 🧰 Stack
+## 🧰 tech stack
 
 <!-- EDIT: prune / add to taste -->
 
@@ -98,7 +98,7 @@ Undergrad at **Columbia** studying **Math, CS, & Stats**, exploring neurotech, b
 
 ---
 
-## 📊 By the numbers
+## 📊 the numbers
 
 <div align="center">
 
@@ -113,19 +113,7 @@ Undergrad at **Columbia** studying **Math, CS, & Stats**, exploring neurotech, b
 
 ---
 
-## 🐕 Contribution companion
-
-<div align="center">
-
-<!-- Custom trotting dachshund, hand-built for you. Commit assets/dachshund.svg and it shows up.
-     Want the classic "eats your grid" animation too? See SETUP.md for the snake workflow. -->
-<img src="https://raw.githubusercontent.com/Sophie-S-Z/Sophie-S-Z/main/dachshund.svg" alt="A dachshund trotting across the contribution graph"/>
-
-</div>
-
----
-
-## ✦ Beyond the code
+## ✦ outside the code
 
 🤺 National medalist **saber fencer** · 🏹 archery, ♟️ chess & 🀄 mahjong · 🍸 bartending & mixology · ✍️ poetry & fiction · 🧭 spontaneous exploration
 
