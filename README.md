@@ -97,19 +97,6 @@ Undergrad at **Columbia** studying **Math, CS, & Stats**, exploring neurotech, b
 
 ---
 
-## 📊 the numbers
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sophie-S-Z&show_icons=true&hide_border=true&title_color=A855F7&icon_color=A855F7&text_color=8b8b9a&bg_color=00000000" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sophie-S-Z&layout=compact&hide_border=true&title_color=A855F7&text_color=8b8b9a&bg_color=00000000" alt="Top languages"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sophie-S-Z&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
-
-</div>
-
 ## 🗺️ commit map
 
 <div align="center">
