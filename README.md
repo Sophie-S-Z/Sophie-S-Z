@@ -110,6 +110,18 @@ Undergrad at **Columbia** studying **Math, CS, & Stats**, exploring neurotech, b
 
 </div>
 
+## 🗺️ commit map
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Sophie-S-Z/Sophie-S-Z/main/github-metrics.svg" alt="Isometric commit calendar and language stats"/>
+</div>
+
+## 🐍 contribution snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Sophie-S-Z/Sophie-S-Z/output/github-snake-dark.svg" alt="Snake eating the contribution grid"/>
+</div>
+
 ---
 
 ## ✦ outside the code
