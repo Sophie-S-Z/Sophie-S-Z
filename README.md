@@ -13,7 +13,7 @@
 
 <br/>
 
-`problems over solutions. questioning → learning → growing → iterating…` 💜
+`problems over solutions. questioning → learning → growing → iterating…`
 
 <!-- Social badges -->
 <a href="https://sophiesz.com"><img src="https://img.shields.io/badge/Portfolio-sophiesz.com-A855F7?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio"/></a>
@@ -132,6 +132,6 @@ Undergrad at **Columbia** studying **Math, CS, & Stats**, exploring neurotech, b
 
 <br/>
 
-<sub>💜 Always happy to meet people working on interesting problems in fascinating fields — <a href="mailto:sophie.z@columbia.edu">let's connect</a></sub>
+<sub>Always happy to meet people working on interesting problems in fascinating fields — <a href="mailto:sophie.z@columbia.edu">let's connect</a></sub>
 
 </div>
