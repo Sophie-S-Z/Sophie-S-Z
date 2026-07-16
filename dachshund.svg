@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="140" viewBox="0 0 900 140" fill="none" role="img" aria-label="A cute dachshund trotting across the screen">
+  <title>A cute dachshund trotting across the screen</title>
+
+  <!-- ground line -->
+  <line x1="0" y1="120" x2="900" y2="120" stroke="#e3c7a8" stroke-width="3" stroke-linecap="round" stroke-dasharray="2 14">
+    <animate attributeName="stroke-dashoffset" values="0;-16" dur="0.5s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- ============ THE DACHSHUND ============ -->
+  <!-- Whole dog travels left -> right, pauses, loops -->
+  <g>
+    <animateTransform attributeName="transform" type="translate"
+      values="-220,0; -220,0; 700,0; 700,0"
+      keyTimes="0; 0.06; 0.94; 1"
+      dur="9s" repeatCount="indefinite"/>
+
+    <!-- gentle trot bob for the entire body -->
+    <g>
+      <animateTransform attributeName="transform" type="translate"
+        values="0,0; 0,-4; 0,0; 0,-4; 0,0"
+        dur="0.6s" repeatCount="indefinite"/>
+
+      <!-- tail (wags) -->
+      <g transform="translate(70,74)">
+        <path d="M0,0 Q-26,-6 -34,-26" stroke="#8a5a2b" stroke-width="7" stroke-linecap="round" fill="none">
+          <animateTransform attributeName="transform" type="rotate"
+            values="-14 0 0; 16 0 0; -14 0 0" dur="0.45s" repeatCount="indefinite"/>
+        </path>
+      </g>
+
+      <!-- long body -->
+      <rect x="70" y="60" width="150" height="34" rx="17" fill="#a86b34"/>
+      <rect x="70" y="60" width="150" height="16" rx="8" fill="#b87a3f"/>
+
+      <!-- back legs -->
+      <g>
+        <rect x="88" y="88" width="11" height="26" rx="5" fill="#8a5a2b">
+          <animateTransform attributeName="transform" type="rotate"
+            values="16 93 90; -16 93 90; 16 93 90" dur="0.6s" repeatCount="indefinite"/>
+        </rect>
+        <rect x="108" y="88" width="11" height="26" rx="5" fill="#7a4d24">
+          <animateTransform attributeName="transform" type="rotate"
+            values="-16 113 90; 16 113 90; -16 113 90" dur="0.6s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+
+      <!-- front legs -->
+      <g>
+        <rect x="176" y="88" width="11" height="26" rx="5" fill="#8a5a2b">
+          <animateTransform attributeName="transform" type="rotate"
+            values="-16 181 90; 16 181 90; -16 181 90" dur="0.6s" repeatCount="indefinite"/>
+        </rect>
+        <rect x="196" y="88" width="11" height="26" rx="5" fill="#7a4d24">
+          <animateTransform attributeName="transform" type="rotate"
+            values="16 201 90; -16 201 90; 16 201 90" dur="0.6s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+
+      <!-- head -->
+      <g transform="translate(206,44)">
+        <!-- snout -->
+        <rect x="34" y="24" width="46" height="20" rx="10" fill="#b87a3f"/>
+        <!-- head shape -->
+        <circle cx="30" cy="26" r="26" fill="#a86b34"/>
+        <!-- floppy ear (flops) -->
+        <path d="M14,8 Q-8,10 -4,44 Q14,40 22,20 Z" fill="#7a4d24">
+          <animateTransform attributeName="transform" type="rotate"
+            values="-6 14 8; 8 14 8; -6 14 8" dur="0.6s" repeatCount="indefinite"/>
+        </path>
+        <!-- eye -->
+        <circle cx="34" cy="22" r="4.2" fill="#2b1a0e"/>
+        <circle cx="35.5" cy="20.5" r="1.4" fill="#fff"/>
+        <!-- nose -->
+        <circle cx="80" cy="34" r="5.5" fill="#2b1a0e"/>
+        <!-- smile -->
+        <path d="M60,40 Q68,46 76,40" stroke="#2b1a0e" stroke-width="2" fill="none" stroke-linecap="round"/>
+      </g>
+    </g>
+
+    <!-- little dust puff behind paws -->
+    <g fill="#e3c7a8">
+      <circle cx="80" cy="116" r="0">
+        <animate attributeName="r" values="0;5;0" dur="0.6s" repeatCount="indefinite"/>
+        <animate attributeName="cx" values="120;80" dur="0.6s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+  </g>
+</svg>
