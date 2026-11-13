@@ -8,7 +8,7 @@
 
 <!-- Animated typing header. Edit the ?lines= text to change what it types. -->
 <a href="https://sophiesz.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Math-Econ+%26+AI+%40+Columbia;Founder+%40+E0+Labs;deeptech+%C2%B7+VC+%C2%B7+neuro+%C2%B7+longevity;Taking+action+on+ideas+that+matter" alt="Sophie Zhang" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Math-CS+%26+Stats+%40+Columbia;Founder+%40+E0+Labs;deeptech+%C2%B7+VC+%C2%B7+neuro+%C2%B7+longevity;Taking+action+on+ideas+that+matter" alt="Sophie Zhang" />
 </a>
 
 <br/>
